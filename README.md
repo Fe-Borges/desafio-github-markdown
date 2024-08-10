@@ -3,7 +3,7 @@
 
 ## Objetivos
 
->✔️ **Criar uma conta no GitHub** <br>
+✔️ **Criar uma conta no GitHub** <br>
 ✔️ **Criar um Repositório** <br>
 ✔️ **Colaboração** <br>
 ✔️ **Formatação com Markdown**
@@ -19,6 +19,12 @@ _______________________
 _Luta entre Darth Maul vs Obi-Wan_
 
 ![Gif Star Wars](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh4eTJ4d3dkaG12NTluMGtoMzFndWRwcDhoYXVmc2Nqa2pnaDd5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HHS2CQGdvCx3y/giphy.webp)
+
+---------------------------
+
+_Luta entre Luke Skywalker vs Darth Vader_
+
+![Gif Star Wars](https://i.pinimg.com/originals/bc/c6/bf/bcc6bf7fa4d58f25a83d2e8774beb1fe.gif)
 
 
 
